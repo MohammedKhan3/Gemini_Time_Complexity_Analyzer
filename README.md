@@ -66,8 +66,7 @@ The frontend runs on [**http://localhost:3000**](http://localhost:3000).
     
 4.  View **time and space complexity** results with explanations.
     
-
-🤝 Contribution
+Contribution
 ---------------
 
 Contributions are welcome! Feel free to fork the repo, create a feature branch, and submit a pull request.
